@@ -1,12 +1,11 @@
 import React from "react";
 import Logo from "../img/Logo.png";
 
-
 const Navbar = () => {
   return (
     <div className="flex flex-wrap justify-center mx-auto max-w-screen-2xl">
       <nav className="flex justify-between text-black w-screen">
-        <div className="xl:px-12 py-6 flex w-full items-center ">
+        <div className=" py-6 flex w-full items-center ">
           <div className="w-32">
             <img src={Logo} alt="Logo" />
           </div>
@@ -66,9 +65,8 @@ const Navbar = () => {
           </div>
         </div>
 
-
         {/*  Responsive Header*/}
-        <button className="navbar-burger self-center mr-12 md:hidden" >
+        <button className="navbar-burger self-center mr-12 md:hidden">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-6 w-6 hover:text-gray-9  00"
@@ -95,6 +93,5 @@ const Navbar = () => {
     </div>
   );
 };
-
 
 export default Navbar;

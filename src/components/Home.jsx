@@ -3,6 +3,7 @@ import Navbar from "./Navbar";
 import banner from "../img/banner.png";
 import about from "../img/burger.png";
 import Product from "./card";
+import Footer from "./footer";
 
 const Home = () => {
   return (
@@ -10,7 +11,7 @@ const Home = () => {
       <Navbar />
       <div className="flex  justify-center mx-auto max-w-screen-2xl ">
         {/* Hero section */}
-        <div className="w-screen flex flex-wrap md:p-20 p-5 ">
+        <div className="w-screen flex flex-wrap md:pt-20 p-5 ">
           <div className="lg:w-1/2  ">
             <span className="text-red-500 text-xl font-bold uppercase">
               Chef's Special
@@ -90,11 +91,12 @@ const Home = () => {
               TAKE YOUR DELICIOUS PICK
             </h1>
             <div className="container  flex-row"></div>
-
             <Product />
           </div>
         </div>
       </div>
+      {/* Footer */}
+      <Footer />
     </div>
   );
 };
