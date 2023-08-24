@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Restaurant/static/css/main.cc60bd90.css",
+    "main.js": "/Restaurant/static/js/main.4833cedd.js",
+    "static/media/banner.png": "/Restaurant/static/media/banner.42771662b421cddefed2.png",
+    "static/media/burger.png": "/Restaurant/static/media/burger.2ab939b563f873526a4e.png",
+    "static/media/Logo.png": "/Restaurant/static/media/Logo.d086636f3850e62a3e7d.png",
+    "index.html": "/Restaurant/index.html",
+    "main.cc60bd90.css.map": "/Restaurant/static/css/main.cc60bd90.css.map",
+    "main.4833cedd.js.map": "/Restaurant/static/js/main.4833cedd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc60bd90.css",
+    "static/js/main.4833cedd.js"
+  ]
+}
