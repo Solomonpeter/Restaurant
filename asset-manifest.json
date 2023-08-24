@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/restaurant/static/css/main.5e1b3606.css",
-    "main.js": "/restaurant/static/js/main.86267ef3.js",
+    "main.js": "/restaurant/static/js/main.293198be.js",
     "static/media/banner.png": "/restaurant/static/media/banner.42771662b421cddefed2.png",
     "static/media/burger.png": "/restaurant/static/media/burger.2ab939b563f873526a4e.png",
     "static/media/Logo.png": "/restaurant/static/media/Logo.d086636f3850e62a3e7d.png",
     "index.html": "/restaurant/index.html",
     "main.5e1b3606.css.map": "/restaurant/static/css/main.5e1b3606.css.map",
-    "main.86267ef3.js.map": "/restaurant/static/js/main.86267ef3.js.map"
+    "main.293198be.js.map": "/restaurant/static/js/main.293198be.js.map"
   },
   "entrypoints": [
     "static/css/main.5e1b3606.css",
-    "static/js/main.86267ef3.js"
+    "static/js/main.293198be.js"
   ]
 }
